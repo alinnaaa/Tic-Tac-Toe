@@ -1,4 +1,4 @@
-# Flutter Tic Tac Game 🎮 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
+# Flutter Tic Tac Game 🎮 (https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
 
 A new Flutter project.
 
