@@ -13,7 +13,7 @@ A new Flutter project.
 
 |                                           |                                           |                                           |
 | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
-| <img src="screenshots/1.png" width="400"> | <img src="screenshots/2.png" width="400"> | <img src="screenshots/3.png" width="400"> |
+| <img width="323" alt="1" src="https://user-images.githubusercontent.com/106480594/188867629-b4134f2d-0243-4081-8a83-6da8515b76f1.png" width="400"> | <img src="screenshots/2.png" width="400"> | <img src="screenshots/3.png" width="400"> |
 
 
 
