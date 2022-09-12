@@ -21,10 +21,14 @@ Tic-tac-toe (also known as Noughts and crosses or Xs and Os) is a paper-and-penc
 
 
 
-
 |                                           |                                           |                                           |
-| ----------------------------------------- | ----------------------------------------- | 
-<img width="317" alt="3" src="https://user-images.githubusercontent.com/106480594/188868370-db59eb7d-4d94-4a62-af67-19f76f132a99.png" width="400"> | <img width="317" alt="5" src="https://user-images.githubusercontent.com/106480594/188868455-d1ee42a3-0d88-4336-a1cd-7c07bcfb5489.png" width="400"> |   
+| ----------------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| <img width="317" alt="3" src="https://user-images.githubusercontent.com/106480594/188868370-db59eb7d-4d94-4a62-af67-19f76f132a99.png" width="400"> | <img width="317" alt="5" src="https://user-images.githubusercontent.com/106480594/188868455-d1ee42a3-0d88-4336-a1cd-7c07bcfb5489.png" width="400"> | <img width="317" alt="4" src="https://user-images.githubusercontent.com/106480594/188868287-207efa5a-32a4-4ff4-bb72-8e7c6f340435.png" width="400"> |
+
+
+
+
+  
 
 
 
